@@ -381,6 +381,9 @@ const Calendar = () => {
           </div>
         </div>
       )}
+      <footer className="app-footer">
+        <span>Calendário React - Desenvolvido por <a href="https://esther-nicetomeetyou.vercel.app/" >Esther</a> </span>
+      </footer>
     </>
   );
 };

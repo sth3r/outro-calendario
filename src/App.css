@@ -304,3 +304,11 @@ body {
     border-radius: 4px;
   }
 }
+
+
+.app-footer{
+  text-align: center;
+  padding: 12px;
+  font-size: 14px;
+  color: #666; 
+}
